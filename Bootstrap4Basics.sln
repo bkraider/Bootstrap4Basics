@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingtoKnowBootstrap_1", "GettingtoKnowBootstrap_1\GettingtoKnowBootstrap_1.csproj", "{5AE67627-47BB-4EB0-B678-644043B7A522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootstrapGridComponentsForms", "HowTheBootstrapGridworks_2\BootstrapGridComponentsForms.csproj", "{A45ED814-FCCD-4605-B692-4155D4BB4F93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsiveLayoutsWithBootstrapGrid_2", "HowTheBootstrapGridworks_2\ResponsiveLayoutsWithBootstrapGrid_2.csproj", "{A45ED814-FCCD-4605-B692-4155D4BB4F93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
